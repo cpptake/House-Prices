@@ -7,6 +7,8 @@ KaggleのGetting Started（初心者用コンペ）の一つである HousePrice
 Score：0.17405 順位：3064位/4513位
 というお粗末な結果となりました。
 
+my_rfr_1.csvが提出用のデータです。
+
 
 ## HousePrice_model2
 HousePrice1の反省を生かして
@@ -18,3 +20,5 @@ HousePrice1の反省を生かして
 をコンセプトに解析を実施し
 Score：　0.14033, 順位：2105位/4535位
 という結果となりました。
+
+my_xbg_2が提出用データです。
